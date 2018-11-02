@@ -1,0 +1,9 @@
+E:\SEIP.NET\Batch 20\2018.10.26\OneToOneApp\OneToOneApp\bin\Debug\OneToOneApp.exe.config
+E:\SEIP.NET\Batch 20\2018.10.26\OneToOneApp\OneToOneApp\bin\Debug\OneToOneApp.exe
+E:\SEIP.NET\Batch 20\2018.10.26\OneToOneApp\OneToOneApp\bin\Debug\OneToOneApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.26\OneToOneApp\OneToOneApp\obj\Debug\OneToOneApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.10.26\OneToOneApp\OneToOneApp\obj\Debug\OneToOneApp.exe
+E:\SEIP.NET\Batch 20\2018.10.26\OneToOneApp\OneToOneApp\obj\Debug\OneToOneApp.pdb
+E:\BITM\2018.10.26\2018.10.26\OneToOneApp\OneToOneApp\bin\Debug\OneToOneApp.exe.config
+E:\BITM\2018.10.26\2018.10.26\OneToOneApp\OneToOneApp\obj\Debug\OneToOneApp.exe
+E:\BITM\2018.10.26\2018.10.26\OneToOneApp\OneToOneApp\obj\Debug\OneToOneApp.pdb
